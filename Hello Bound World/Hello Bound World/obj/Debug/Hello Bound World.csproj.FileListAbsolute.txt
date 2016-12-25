@@ -1,0 +1,14 @@
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\bin\Debug\Hello Bound World.exe.config
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\bin\Debug\Hello Bound World.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\bin\Debug\Hello Bound World.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\MainWindow.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\App.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\Hello Bound World_MarkupCompile.cache
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\Hello Bound World_MarkupCompile.lref
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\MainWindow.baml
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\Hello Bound World.g.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\Hello_Bound_World.Properties.Resources.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\Hello Bound World.csproj.GenerateResource.Cache
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\Hello Bound World.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\Hello Bound World.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\Hello Bound World\obj\Debug\Hello Bound World.csprojResolveAssemblyReference.cache

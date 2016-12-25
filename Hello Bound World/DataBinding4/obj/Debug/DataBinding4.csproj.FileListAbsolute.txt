@@ -1,0 +1,15 @@
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\bin\Debug\DataBinding4.exe.config
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\App.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\DataBinding4_MarkupCompile.cache
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\bin\Debug\DataBinding4.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\bin\Debug\DataBinding4.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\MainWindow.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\DataBinding4_MarkupCompile.lref
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\MainWindow.baml
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\DataBinding4.g.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\DataBinding4.Properties.Resources.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\DataBinding4.csproj.GenerateResource.Cache
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\DataBinding4.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\DataBinding4.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding4\obj\Debug\DataBinding4.csprojResolveAssemblyReference.cache

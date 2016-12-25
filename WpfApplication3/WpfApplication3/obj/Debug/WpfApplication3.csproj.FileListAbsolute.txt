@@ -1,0 +1,17 @@
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindowView.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindowView.baml
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\gbkim\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gbkim\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\Newtonsoft.Json.xml

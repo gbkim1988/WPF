@@ -1,0 +1,14 @@
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\bin\Debug\DataBinding2.exe.config
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\MainWindow.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\App.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\DataBinding2_MarkupCompile.cache
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\DataBinding2_MarkupCompile.lref
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\bin\Debug\DataBinding2.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\bin\Debug\DataBinding2.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\MainWindow.baml
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\DataBinding2.g.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\DataBinding2.Properties.Resources.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\DataBinding2.csproj.GenerateResource.Cache
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\DataBinding2.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\DataBinding2.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding2\obj\Debug\DataBinding2.csprojResolveAssemblyReference.cache

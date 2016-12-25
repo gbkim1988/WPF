@@ -1,0 +1,15 @@
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\bin\Debug\INotifyPropertyChanged Sample.exe.config
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\INotifyPropertyChanged Sample.csprojResolveAssemblyReference.cache
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\MainWindow.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\App.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\INotifyPropertyChanged Sample_MarkupCompile.cache
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\INotifyPropertyChanged Sample_MarkupCompile.lref
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\INotifyPropertyChanged Sample.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\INotifyPropertyChanged Sample.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\bin\Debug\INotifyPropertyChanged Sample.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\bin\Debug\INotifyPropertyChanged Sample.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\MainWindow.baml
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\INotifyPropertyChanged Sample.g.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\INotifyPropertyChanged_Sample.Properties.Resources.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\INotifyPropertyChanged Sample\INotifyPropertyChanged Sample\obj\Debug\INotifyPropertyChanged Sample.csproj.GenerateResource.Cache

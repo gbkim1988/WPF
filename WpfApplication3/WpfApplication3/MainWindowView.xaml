@@ -1,0 +1,40 @@
+﻿<Window x:Class="WpfApplication3.MainWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <!-- View 의 ViewModel 을 지정한다-->
+    <Window.DataContext>
+        <local:MainWindowViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <!-- 
+        단순 ViewModel 에 대한  Binding
+        <Button Width="100"
+                Height="100" Content="{Binding ButtonContent}" />
+        
+        -->
+        <!-- ICommand 를 활용한 Binding -->
+        <Button Grid.Row="0" Command="{Binding HiButtonCommand}"
+                CommandParameter="Hai" Content="{Binding HiButtonContent}"
+                Width="100"
+                Height="100" />
+
+        <Button Grid.Row="1" Content="Toggle Can Click"
+                Command="{Binding ToggleExecuteCommand}"
+                Width="100"
+                Height="100"/>
+        
+        <TextBox Grid.Row="2" Height="100" x:Name="textBox"/>
+        <Label Grid.Row="3" Height="100" Content="{Binding Text, ElementName=textBox}"/>
+    </Grid>
+</Window>

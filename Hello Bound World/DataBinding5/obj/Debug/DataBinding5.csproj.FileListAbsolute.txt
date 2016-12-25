@@ -1,0 +1,13 @@
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\bin\Debug\DataBinding5.exe.config
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\MainWindow.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\App.g.cs
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\DataBinding5_MarkupCompile.cache
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\DataBinding5_MarkupCompile.lref
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\DataBinding5.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\DataBinding5.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\bin\Debug\DataBinding5.exe
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\bin\Debug\DataBinding5.pdb
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\MainWindow.baml
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\DataBinding5.g.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\DataBinding5.Properties.Resources.resources
+c:\users\gbkim\documents\visual studio 2015\Projects\Hello Bound World\DataBinding5\obj\Debug\DataBinding5.csproj.GenerateResource.Cache
